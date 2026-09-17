@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+GitHub repository for the Introduction to Git and GitHub project.
